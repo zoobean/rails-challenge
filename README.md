@@ -7,7 +7,7 @@ This is the starting point for the Zoobean Rails live-coding interview. We creat
 Before the interview, please prepare your setup by having:
 
 * cloned this repo locally
-* having run `bundle install`` successfully
+* having run `bundle install` successfully
 * having run `rails db:drop db:create db:migrate db:seed` to create the sqlite database
 
 Once those steps are completed, please ensure everything is working by running `rails s` and navigate to http://localhost:3000. On this page, a table of books should be displayed.
@@ -30,6 +30,11 @@ Here are a few things that we'll be looking for as you work through your solutio
 - Small, meaningful commits
 
 While a full solution is not expected, working components that meet some of the requirements are.
+
+## Sample User Account
+
+**Email:** example@example.xyz
+**Password:** something
 
 ## Add-ons
 
