@@ -12,6 +12,8 @@ Before the interview, please prepare your setup by having:
 
 Once those steps are completed, please ensure everything is working by running `rails s` and navigate to http://localhost:3000. On this page, a table of books should be displayed.
 
+![Screenshot 2023-11-27 at 1 03 24 PM](https://github.com/zoobean/rails-challenge/assets/1329085/7fbb08ba-d098-47a6-987a-5416f3114618)
+
 ## Goals
 
 We're not expecting to see a complete solution the challenge given to you. Instead, we want to observe your style while you're working to solve the given problem.
