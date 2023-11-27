@@ -1,0 +1,2 @@
+%h3= @genre.present? ? @genre : "Books"
+= render partial: "table", locals: { books: @books, pagy: @pagy, genre: @genre }
